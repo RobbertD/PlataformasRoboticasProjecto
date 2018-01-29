@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( DisplayImage )
+set (CMAKE_CXX_STANDARD 11)
+find_package( OpenCV REQUIRED )
+add_executable( shapeFinder  tcp.cpp findShape.cpp colorThreshold.cpp shape.cpp)
+target_link_libraries( shapeFinder ${OpenCV_LIBS} )
