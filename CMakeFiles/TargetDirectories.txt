@@ -1,3 +1,0 @@
-/home/robbert/Documents/Robotica/CMakeFiles/edit_cache.dir
-/home/robbert/Documents/Robotica/CMakeFiles/rebuild_cache.dir
-/home/robbert/Documents/Robotica/CMakeFiles/shapeFinder.dir

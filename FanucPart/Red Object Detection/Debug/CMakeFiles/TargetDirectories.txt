@@ -1,0 +1,3 @@
+/home/robbert/Documents/Robotica/Red Object Detection/Debug/CMakeFiles/rebuild_cache.dir
+/home/robbert/Documents/Robotica/Red Object Detection/Debug/CMakeFiles/edit_cache.dir
+/home/robbert/Documents/Robotica/Red Object Detection/Debug/CMakeFiles/test1.dir
